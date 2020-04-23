@@ -1,4 +1,4 @@
-# Terraform Run 
+# Invoke Terraform Runs API 
 
 This action invoke Terraform Runs API  
 https://www.terraform.io/docs/cloud/api/run.html
@@ -38,7 +38,7 @@ https://www.terraform.io/docs/cloud/api/run.html
 ## Example usage
 
 ```
-uses: sarathkrish/invoke-terraform-run@v1.0   
+uses: sarathkrish/invoke-terraform-run-api@v1.0   
 with:  
   workSpaceName: MyTestWorkspace  
   organizationName: {{env.organization}}  
