@@ -19,6 +19,6 @@
   "homepage": "https://github.com/sarathkrish/run-terraform#readme",
   "dependencies": {
     "@actions/core": "^1.2.3",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
